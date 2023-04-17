@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+
+
+}
+
+.contenedor {
+    background-color: blue;
+    width: 50%;
+    height: 1000px;
+}
+
+.contenedor div {
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.contenedor
+.ocultar {
+
+    display: none;
+
+}
+
+@media screen and (max-width: 200px) {
+    body {
+        background-color: black;
+    }
+}
+
+
